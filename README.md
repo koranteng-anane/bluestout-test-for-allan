@@ -18,8 +18,6 @@ This assessment contains **two tests** to evaluate your Shopify theme developmen
 4. Submit a Pull Request to the main repository
 5. PR title format: `Assessment Submission - [Your Name]`
 
-> ⏱️ Your submission time will be recorded via the PR timestamp.
-
 ---
 
 ## Test 1: Build a Team Members Section
